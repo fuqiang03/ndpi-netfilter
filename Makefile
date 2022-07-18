@@ -32,7 +32,7 @@ define Package/iptables-mod-ndpi
   TITLE:=ndpi successor of OpenDPI
   URL:=http://www.ntop.org/products/ndpi/
   DEPENDS:=+iptables +iptables-mod-conntrack-extra +kmod-ipt-ndpi
-  MAINTAINER:=Thomas Heil <heil@terminal-consulting.de>
+  MAINTAINER:=test <test@test>
 endef
 
 define Package/iptables-mod-ndpi/description
